@@ -1,0 +1,11 @@
+fcbg-env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+videos/*.MOV
+videos/*.mp4
+videos/*.MP4
+output/*.mp4
+output/*.MP4
+output/dlc_project/
+.DS_Store
