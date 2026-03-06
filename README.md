@@ -1,6 +1,6 @@
-# Computer Vision for Behavioural Analysis — FCBG Interview Demo
+# Computer Vision for Behavioural Analysis 
 
-A computer vision pipeline for automated behavioural analysis from video, demonstrating body pose estimation and facial expression classification using MediaPipe. Built as a technical demo for the Fondation Campus Biotech Geneva (FCBG).
+A computer vision pipeline for automated behavioural analysis from video, demonstrating body pose estimation and facial expression classification using MediaPipe. 
 
 The pipeline processes two separate camera feeds:
 - **Camera 1 (Body):** 33-point body pose estimation for movement tracking and activity segmentation
